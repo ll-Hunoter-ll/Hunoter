@@ -1,28 +1,23 @@
 # CATATAN ( NOTE )
-Mulai saat ini, script ini tidak akan dilanjutkan lagi, jika ingin menambah sesuatu lebih baik dibuat pribadi aja, malah keren itu lhu punya tapi yang lain kaga jadi lhu bisa jual tu fitur kalo di publik di script ini mungkin kalian akan rugi sendiri, sudah susah-susah bikin code tapi malah dijual Ama yang cuma modal nyomot doang & dibuat konten yt, yutuber untung yang buat kaga, tapi terserah kalian juga kalo mau pull ya tetep saya ACC
+Ab jetzt wird dieses Skript nicht mehr weitergeführt, wenn du was hinzufügen willst, mach es besser privat, ist cool, du hast es aber die anderen nicht, also kannst du es in Kneipen verkaufen, Ich habe hart daran gearbeitet, Code zu erstellen, aber ich verkaufe ihn Ama, die nur Geld nimmt und Inhalte erstellt, viel Glück für YouTube, aber es liegt an Ihnen, ob Sie ihn ziehen möchten, ich werde immer noch ACC
 
-Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
+Wenn Sie normal verkaufen möchten, Betrügen Sie nicht und geben Sie keine leeren Hoffnungen, zum Beispiel „Die Schrittfunktion ist verkauft, es gibt einen Laden“, das ist in Ordnung, Sie können Gewinn machen, aber anderen Menschen keinen Schaden zufügen 
 
-Best Regards. Hisoka
+Best Regards. Hunoter
 
-# Hisoka-Morou
+# Hunoter-Zukato
 Script WhatsApp Bot Multi Device
 
 ## NOTE
-This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
+This Script is for everyone, not for Sale. Wenn verkauft, wartet die Hölle auf dich Bruder !
 
 <p align="center">
 	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Hisoka-Morou</h1>
+<h1 align="center">Hunoter</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
-## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
-* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/ll-Hunoter-ll/Hunoter)
-* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
 
 ## HEROKU BUILDPACK
 ```bash
@@ -32,16 +27,16 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-## UNTUK PENGGUNA WINDOWS/RDP
+## FÜR WINDOWS/RDP-BENUTZER
 
-* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
-* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
-* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
+* Download & Installieren Git [`Klick hier`](https://git-scm.com/downloads)
+* Download & Instal NodeJS [`Klick hier`](https://nodejs.org/en/download)
+* Herunterladen & Installieren FFmpeg [`Klick hier`](https://ffmpeg.org/download.html) (**Vergessen Sie nicht, FFmpeg zur Umgebungsvariablen PATH* hinzuzufügen*)
 
 
 ```bash
 git clone https://github.com/ll-Hunoter-ll/Hunoter
-cd Hisoka-Morou
+cd Hunoter
 npm install
 ```
 
@@ -63,7 +58,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/ll-Hunoter-ll/Hunoter
-cd Hisoka-Morou
+cd Hunoter
 npm install
 ```
 
@@ -88,24 +83,10 @@ Get Apikey zenz on [`zenz`](https://zenzapis.xyz/)
 
 
 ## THANKS TO
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Faiz`](https://github.com/FaizBastomi)
-* [`Gimenz`](https://github.com/Gimenz)
-* [`rayy`](https://github.com/rayyreall)
-* [`FatihArridho`](https://github.com/FatihArridho)
-* [`Pa7rick`](https://github.com/pa7rickr)
-* [`RidhoUhuy`](https://github.com/Atak676) 
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`bintang`](https://github.com/Bintangp02)
+* [`@mheg`](https://instagram.com/mheg)
+* [`@zukato`](https://instagram.com/dolbaejob)
 
 ```Thanks to all who have participated in the development of this script```
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
-
-Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
